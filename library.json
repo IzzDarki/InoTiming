@@ -1,0 +1,23 @@
+{
+	"name": "InoTiming",
+	"version": "0.0.1",
+	"description": "Timing library for Arduino: provides some functionalities for timing",
+	"keywords": [
+		"ino",
+		"timing"
+	],
+	"authors": {
+		"name": "Bennet",
+		"email": "bennet0108@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/IzzDarki/InoTiming.git"
+	},
+	"frameworks": "arduino",
+	"platforms": "atmelavr",
+	"dependencies": {
+		"name": "Ino",
+		"authors": "Bennet"
+	}
+}
